@@ -1,0 +1,9 @@
+package com.springmixedconfig.bookrack;
+
+public class HistoryOfTime implements Book {
+
+	public void showBookName() {
+		System.out.println("History of Time");
+	}
+	
+}

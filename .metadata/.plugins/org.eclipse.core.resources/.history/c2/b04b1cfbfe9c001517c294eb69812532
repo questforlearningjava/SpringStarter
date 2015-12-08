@@ -1,0 +1,9 @@
+package com.springmixedconfig.bookrack;
+
+public class TeekWood implements BookRack {
+
+	public void showRack() {
+		
+	}
+
+}

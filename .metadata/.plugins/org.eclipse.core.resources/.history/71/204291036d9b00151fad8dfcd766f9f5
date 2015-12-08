@@ -1,0 +1,8 @@
+package com.springJavaConfig.boxSystem;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class BoxConfig {
+	
+}

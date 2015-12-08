@@ -1,0 +1,5 @@
+package com.springmixedconfig.bookrack;
+
+public class BookRackConfig {
+	
+}

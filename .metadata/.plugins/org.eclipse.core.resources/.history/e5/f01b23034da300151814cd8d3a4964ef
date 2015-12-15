@@ -1,0 +1,8 @@
+package com.springprofiles;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class FreeProfileConfig {
+
+}

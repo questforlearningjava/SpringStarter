@@ -1,0 +1,14 @@
+package com.springprofiles;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import org.springframework.test.context.ActiveProfiles;
+
+@ActiveProfiles("Dev")
+public class AnnotationLoaderTest {
+	public static void main(String[] args){
+		ApplicationContext context = new AnnotationConfigApplicationContext(DevProfileConfig.class,ProdProfileConfig.class);
+		Profiler p = (Profiler)context.getBean("profile");
+		p.printProfileName();
+	}
+}

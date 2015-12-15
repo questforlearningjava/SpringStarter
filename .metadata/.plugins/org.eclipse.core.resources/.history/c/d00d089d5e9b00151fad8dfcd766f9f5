@@ -1,5 +1,0 @@
-package com.springStarter.soundSystem;
-
-public interface MediaPlayer {
-
-}

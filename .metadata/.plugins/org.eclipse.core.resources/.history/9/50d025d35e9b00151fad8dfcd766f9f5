@@ -1,9 +1,0 @@
-package com.springStarter.soundSystem;
-
-public class CDPlayer implements MediaPlayer {
-
-	public void playCD() {
-		
-	}
-	
-}

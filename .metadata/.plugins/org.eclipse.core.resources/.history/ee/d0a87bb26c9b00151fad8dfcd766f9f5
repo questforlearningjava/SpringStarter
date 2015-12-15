@@ -1,6 +1,0 @@
-package com.springJavaConfig.boxSystem;
-
-@Configuration
-public class BoxConfig {
-	
-}

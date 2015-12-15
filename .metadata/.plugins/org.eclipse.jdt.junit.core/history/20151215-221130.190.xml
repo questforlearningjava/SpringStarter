@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="ProdProfileTest" project="SpringProfiles" tests="2" started="2" failures="0" errors="0" ignored="0">
-  <testsuite name="com.springprofiles.ProdProfileTest" time="0.0">
-    <testcase name="isProfileMatch" classname="com.springprofiles.ProdProfileTest" time="0.0"/>
-    <testcase name="isProfilerNotNull" classname="com.springprofiles.ProdProfileTest" time="0.0"/>
-  </testsuite>
-</testrun>

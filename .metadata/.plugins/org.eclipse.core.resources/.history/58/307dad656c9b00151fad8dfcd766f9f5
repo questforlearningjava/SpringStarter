@@ -1,9 +1,0 @@
-package com.springJavaConfig.boxSystem;
-
-public class BlackBox implements Box {
-
-	public void showBox() {
-		
-	}
-
-}

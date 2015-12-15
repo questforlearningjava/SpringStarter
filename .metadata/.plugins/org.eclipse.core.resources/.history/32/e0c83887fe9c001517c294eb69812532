@@ -1,5 +1,0 @@
-package com.springmixedconfig.bookrack;
-
-public interface Book {
-
-}
